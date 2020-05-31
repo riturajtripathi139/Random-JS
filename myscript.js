@@ -1,1 +1,1 @@
-document.write("mt name is rituraj tripathi what u r doing");
+document.write("my name is rituraj tripathi what r u doing");
