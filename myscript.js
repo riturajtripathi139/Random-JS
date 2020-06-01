@@ -1,2 +1,7 @@
-document.write("my name is rituraj tripathi what r u doing");
-alert("my name is Rituraj")
+var a = confirm('are you sure');
+if (a){
+  confirm("soch le bhai aakhri baar");
+  document.write('thik h maaf kr dia');
+}else{
+alert('wahi krna tha bewakoof aurat')
+}
